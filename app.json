@@ -21,16 +21,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.little_champ.rntest"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "d404f86f-bd21-4fe1-bb90-3b570a98a71e"
+        "projectId": "9a83f4bf-1da4-4def-8f38-bc9dba555829"
       }
     },
-    "owner": "little_champ"
+    "owner": "dev.hiv3",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
