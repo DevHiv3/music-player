@@ -1,1 +1,1 @@
-# study-planner
+# MUSIC PLAYER IN REACT NATIVE
